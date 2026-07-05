@@ -1,6 +1,5 @@
 # SQL AI Database Solutions: Talking to Databases with Artificial Intelligence
 
-**Public example repository:** https://github.com/Hashiravc/text-to-sql-ai
 
 This repository includes a runnable public example:
 
